@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Curso Gallego Kotlin</string>
+    <string name="imc_app_male_text">Hombre</string>
+    <string name="imc_app_female_text">Mujer</string>
+    <string name="imc_app_height_text">Altura</string>
+    <string name="imc_app_weight_text">Peso</string>
+    <string name="imc_app_age_text">Edad</string>
+</resources>
